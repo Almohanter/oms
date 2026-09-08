@@ -1,0 +1,11 @@
+#composed binaries
+/oms
+/mdgw
+/bin/
+
+#test and coverage output
+coverage.out
+*.test
+
+#secrets - api keys
+.env
