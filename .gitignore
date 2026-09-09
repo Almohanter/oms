@@ -9,3 +9,6 @@ coverage.out
 
 #secrets - api keys
 .env
+
+#Ds store junk
+.DS_Store
